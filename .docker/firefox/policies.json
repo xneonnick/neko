@@ -38,7 +38,7 @@
     "DisableForgetButton": true,
     "DisableMasterPasswordCreation": true,
     "DisablePocket": true,
-    "DisablePrivateBrowsing": true,
+    "DisablePrivateBrowsing": false,
     "DisableProfileImport": true,
     "DisableProfileRefresh": true,
     "DisableSafeMode": true,
